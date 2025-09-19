@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Aswathy R  
 
-<!--
-**AswathyR005/AswathyR005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Former Systems Engineer at TCS, now transitioning into **Data & Business Analytics** after completing training with **SkilloVilla**.  
+I enjoy working with **SQL, Python, Power BI, Tableau, and Excel** to turn raw data into meaningful insights.  
 
-Here are some ideas to get you started:
+## 🔧 Skills  
+- Python (Pandas, NumPy, Matplotlib)  
+- SQL (Joins, Aggregations, Window Functions)  
+- Power BI & Tableau (Dashboards, DAX, Data Modeling)  
+- Excel (Pivot Tables, VLOOKUP, Data Cleaning)  
+- Business Analytics (Cohort Analysis, RFM, KPI Tracking)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects  
+- [Employee & Project Data Analysis using Python](#)  
+- [Retail Sales Performance Dashboard – ShopNest (Power BI)](#)  
+- [Customer Segmentation & Retention Analysis (SQL / Business Analytics)](#)  
+
+## 🌱 Current Focus  
+Building a strong portfolio in **Data Analytics** and preparing for roles as a **Data Analyst / Business Analyst**.  
+
+## 📫 Connect with Me  
+- [LinkedIn](linkedin.com/in/aswathyr05)  
+- 📧 aswathyr816@gmail.com 
