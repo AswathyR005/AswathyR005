@@ -8,7 +8,14 @@ I enjoy working with **SQL, Python, Power BI, Tableau, and Excel** to turn raw d
 - SQL (Joins, Aggregations, Window Functions)  
 - Power BI & Tableau (Dashboards, DAX, Data Modeling)  
 - Excel (Pivot Tables, VLOOKUP, Data Cleaning)  
-- Business Analytics (Cohort Analysis, RFM, KPI Tracking)  
+- Business Analytics (Cohort Analysis, RFM, KPI Tracking)
+
+## 📜 Certifications  
+
+- 🎓 **Data Analytics + Python Program** – SkilloVilla  
+  *(Excel, SQL, Power BI, Tableau, Python, Business Analytics)*  
+- 🛠️ **DevOps Certification Training** – Edureka  
+  *(git, DevOps fundamentals, Linux)* 
 
 ## 📊 Projects  
 - [Employee & Project Data Analysis using Python](#)  
