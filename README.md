@@ -18,9 +18,10 @@ I enjoy working with **SQL, Python, Power BI, Tableau, and Excel** to turn raw d
   *(git, DevOps fundamentals, Linux)* 
 
 ## 📊 Projects  
-- [Employee & Project Data Analysis using Python](#)  
-- [Retail Sales Performance Dashboard – ShopNest (Power BI)](#)  
-- [Customer Segmentation & Retention Analysis (SQL / Business Analytics)](#)  
+- [Python](#)  
+- [Power BI](#)  
+- [SQL](#)
+- [MS Excel](#)
 
 ## 🌱 Current Focus  
 Building a strong portfolio in **Data Analytics** and preparing for roles as a **Data Analyst / Business Analyst**.  
