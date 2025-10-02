@@ -4,7 +4,7 @@ Former Systems Engineer at TCS, now transitioning into **Data & Business Analyti
 I enjoy working with **SQL, Python, Power BI, Tableau, and Excel** to turn raw data into meaningful insights.  
 
 ## 🔧 Skills  
-- Python (Pandas, NumPy, Matplotlib)  
+- Python (Basics,Pandas, NumPy)  
 - SQL (Joins, Aggregations, Window Functions)  
 - Power BI & Tableau (Dashboards, DAX, Data Modeling)  
 - Excel (Pivot Tables, VLOOKUP, Data Cleaning)  
